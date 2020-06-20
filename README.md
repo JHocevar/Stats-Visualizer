@@ -2,7 +2,7 @@
 
 This program utilizes tkinter, pandas and matplotlib to create nice graphs for many combinations of players and teams across all major League of Legends regions.
 
-The stats are read in from the excel files provided by Oracle's Elixer found [here](https://oracleselixir.com/matchdata/)
+The stats are read in from the excel files provided by Oracle's Elixir found [here](https://oracleselixir.com/matchdata/)
 A list of all stats and what they are can be found on their website [here](https://oracleselixir.com/matchdata/match-data-dictionary/)
 To change that available stats to graph, simply add or remove the stat from the STATS list defined in the main.py file. This will hopefully be added to the config options at some point in the future.
 
