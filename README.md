@@ -20,5 +20,5 @@ Moved theme colors variables to a theme file that is imported
 Removed config option to search for pkl file, it now always checks for one with the same base name as the provided filename
 
 # TODO
-add option to choose stat options in the config menu 
+add option to choose stat options in the config menu                                                                
 integrate matplotlib graph into a tkinter window with nicer buttons
