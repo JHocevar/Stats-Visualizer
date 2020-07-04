@@ -21,5 +21,4 @@ Removed config option to search for pkl file, it now always checks for one with 
 
 # TODO
 add option to choose stat options in the config menu 
-
 integrate matplotlib graph into a tkinter window with nicer buttons
