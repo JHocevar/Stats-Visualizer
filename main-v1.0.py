@@ -1,11 +1,12 @@
-import matplotlib.pyplot as plt
 from functools import partial
 import tkinter as tk
 import configparser
-import pandas as pd
-import numpy as np
 import pickle
 import os
+
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
 
 # Read in the config settings
 config = configparser.ConfigParser()
