@@ -5,6 +5,7 @@ This program utilizes tkinter, pandas and matplotlib to create nice graphs for m
 The stats are read in from the excel files provided by Oracle's Elixir found [here](https://oracleselixir.com/matchdata/)
 A list of all stats and what they are can be found on their website [here](https://oracleselixir.com/matchdata/match-data-dictionary/)
 To change that available stats to graph, simply add or remove the stat from the  statsList defined at the top of the main file. This will hopefully be added to the config options at some point in the future.
+# NOTE: these links are now invalid as Oracle's Elixer is in the processess of updating their website, they will be updated when they finish and any changes are accounted for
 
 To increase load times, run the convertData.py script first and convert the excel file into a .pkl file which stores the pandas dataFrame and allows the app to read in the data much faster. This will hopefully also be added into the config menu as an option at some point.
 
