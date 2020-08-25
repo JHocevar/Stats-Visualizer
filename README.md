@@ -45,5 +45,6 @@ This app will eventually be condenced into 1 large GUI using pyqt5 and implement
 * Removed config option to search for pkl file, it now always checks for one with the same base name as the provided filename
 
 # TODO
-add option to choose stat options in the config menu                                                                
-integrate matplotlib graph into a tkinter window with nicer buttons
+Fix region select drop down box in LiveWinow.py
+Condence apps into a single GUI
+Add more scraping of Oracle's Elixer tables (they have some cool stats)
