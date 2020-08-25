@@ -12,7 +12,7 @@ and for the season wide stats, run ```main-1.0.py``` or ```main-2.0.py```
 ##### NEW --- Live Gold Graph
 
 The live gold grapher utilizes selenium and pyqt5 to create an interactive gui and graphs for live gold difference graphs while games are being played. Selenium scraper runs in a separate thread and polls the website for its status on streams live, games live, and stats live. 
-####### Note: currently the change region drop down box does not work, but will be fixed in an update soon
+###### Note: currently the change region drop down box does not work, but will be fixed in an update soon
 
 ##### Season wide stats
 In the Old Tkinter Version folder lies main-1.0 and main-2.0. Both of these programs read a data file from Oracle's Elixer's match data files found [here](https://oracleselixir.com/tools/downloads)
