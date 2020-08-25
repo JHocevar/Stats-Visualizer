@@ -7,7 +7,7 @@ To install all dependencies of the apps, simply run this command
 pip install -r requirements.txt
 ```
 for the live gold graph run ```LiveWindow.py```
-and for the season wide stats, run ```main-1.0.py or main-2.0.py```
+and for the season wide stats, run ```main-1.0.py''' or '''main-2.0.py```
 
 ##### NEW --- Live Gold Graph
 
